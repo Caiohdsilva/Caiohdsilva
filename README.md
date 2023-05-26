@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently studying
+- 🌱 I’m currently learning HTML, JS and CSS
+- 🤔 I’m looking for help with HTML, JS and CSS
+- 📫 How to reach me: sd.henriquecaio@gmail.com
+- 😄 Pronouns: HE/HIM
+
 <!--
 **Caiohdsilva/Caiohdsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
