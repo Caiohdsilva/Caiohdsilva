@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying
+- 🔭 I’m currently studying Web Development.
 - 🌱 I’m currently learning HTML, JS and CSS
 - 🤔 I’m looking for help with HTML, JS and CSS
 - 📫 How to reach me: sd.henriquecaio@gmail.com
