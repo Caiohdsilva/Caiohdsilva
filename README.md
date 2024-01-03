@@ -1,6 +1,6 @@
-### Hi there 👋
+Hi there 👋
 
-🌱I’m currently studying web development.
+🌱 I'm currently studying front-end web development.
 
 <!--
 **Caiohdsilva/Caiohdsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
